@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Physics from Hebei Normal University, specializing in anomalous quantum oscillations and quantum transport. My research focuses on exploring the fascinating world of quantum phenomena through both theoretical and experimental approaches.
+I'm a Ph.D. student in Physics from [Hebei Normal University](https://www.hebtu.edu.cn/), specializing in anomalous quantum oscillations and quantum transport. My research focuses on exploring the fascinating world of quantum phenomena through both theoretical and experimental approaches.
 
 My GitHub primarily serves as a repository for codes, presentation slides, and lecture notes, aimed at supporting my own research as well as providing resources for my research group.
 
